@@ -1,2 +1,2 @@
-# micahoverton.github.io
+# MicahOverton
 My Game Development Portfolio
